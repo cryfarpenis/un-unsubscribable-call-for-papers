@@ -8,7 +8,7 @@ This repository does not hold any opinion about the listed journals/conferences,
 2. Your CFP emails did have the "unsubscribe" link, but it simply wouldn't work, and follow-up emails came as if nothing had happened, and/or
 3. Whoever broadcasted the message (say, your cooperator who is responsible for advertisement) was using information gathered without the permission of the addresses' owners.
 
-Until the organizers figure out what is going on and take pragmatic measures to improve the situation, we **researchers** have to choice but **create filters based on these key words**.
+Until the organizers figure out what is going on and take pragmatic measures to improve the situation, we **researchers** have no choice but **create filters based on these key words**.
 
 ## Help needed
 
