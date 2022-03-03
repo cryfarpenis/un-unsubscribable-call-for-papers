@@ -10,3 +10,9 @@ This repository does not hold any opinion about the listed journals/conferences,
 
 Until the organizers figure out what is going on and take pragmatic measures to improve the situation, we **researchers** have to choice but **create filters based on these key words**.
 
+## Help needed
+
+1. Feel free to add entries to this list.
+2. Share this repository with your colleagues so that a larger community will both contribute to and benefit from it.
+3. Any suggestion on the format? Better if we can easily import the list as a spam filter recognized by different email providers.
+
